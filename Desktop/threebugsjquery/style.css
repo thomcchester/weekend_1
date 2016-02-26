@@ -1,0 +1,27 @@
+.name {
+	font-size: 1.5em;
+	color:red;
+}
+.name1{
+	color:orange;
+}
+
+.secondary{
+	font-size: 1.2em;
+}
+.topbox{
+	width:100%;
+	color:purple;
+}
+
+.h1{
+	color:purple;
+}
+
+.colorMoney{
+	color:green;
+}
+
+.all{
+	border:5px solid red;
+}
